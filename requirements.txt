@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+rasterio
+xarray
+netCDF4
+numpy
+dask
+pytest
+httpx
